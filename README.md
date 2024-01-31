@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luciano</h1>
 <h3 align="center">A passionate software developer from Rosario, Santa Fe.</h3>
 
-- 🔭 I’m currently working on [Master-python](https://github.com/lucianock/Master-python)
+- 🔭 I’m currently working on MVC-Laravel
 
 - 🌱 I’m currently learning **Laravel and React**
 
